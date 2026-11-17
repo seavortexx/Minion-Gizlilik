@@ -83,4 +83,4 @@ haklarına sahiptir.
 
 Telif hakkı bildirimleri, geri bildirimler veya yasal talepleriniz için:
 * **MicUp Destek Sunucusu:** [Minion Destek](https://micup.gg/invite/IN33KpwG)
-* **Geliştirici:** Minion Development Team
+* **Geliştirici:** Sea Vortex
