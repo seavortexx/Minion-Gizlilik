@@ -83,7 +83,7 @@ haklarına sahiptir.
 
 Telif hakkı bildirimleri, geri bildirimler veya yasal talepleriniz için:
 * **MicUp Destek Sunucusu:** [Minion Destek](https://micup.gg/invite/IN33KpwG)
-* **Geliştirici:** Sea Vortex
+* **Geliştirici:** seavortex
 
 
 # ⚖️ MINION BOT – LEGAL NOTICE, TERMS OF SERVICE, PRIVACY POLICY, AND KVKK DISCLOSURE TEXT
@@ -193,4 +193,4 @@ d) Request the deletion or destruction of their personal data.
 For copyright notices, feedback, or legal requests:
 
 * **MicUp Support Server:** [Minion Support](https://micup.gg/invite/IN33KpwG)
-* **Developer:** Sea Vortex
+* **Developer:** seavortex
