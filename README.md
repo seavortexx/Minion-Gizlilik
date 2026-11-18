@@ -58,8 +58,8 @@ Minion, kullanıcıların özel hayatına müdahale edecek hiçbir gereksiz veri
 ### 3.1. Veri Sorumlusu
 Minion Müzik Botu bünyesinde işlenen sınırlı veriler bakımından Veri Sorumlusu, Minion Geliştirme ve Yönetim Ekibidir.
 
-### 3.2. Kişisel Verilerin İşlenme Amacı ve Hukuki Sebebi
-Minion tarafından otomatik yollarla işlenen Kullanıcı ID'si, Kullanıcı Adı ve Komut Girdisi:
+Minion tarafından otomatik yollarla işlenen Kullanıcı ID'si, Kullanıcı Adı ve Komut Gi
+### 3.2. Kişisel Verilerin İşlenme Amacı ve Hukuki Sebebirdisi:
 * KVKK m. 5/2-c ("Bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması") ve
 * KVKK m. 5/2-f ("İlgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması")
 hukuki sebeplerine dayalı olarak; yalnızca talep edilen müzik oynatma hizmetinin ifası, arayüz kartlarının oluşturulması ve botun operasyonel kararlılığının sağlanması amacıyla işlenir.
@@ -84,3 +84,113 @@ haklarına sahiptir.
 Telif hakkı bildirimleri, geri bildirimler veya yasal talepleriniz için:
 * **MicUp Destek Sunucusu:** [Minion Destek](https://micup.gg/invite/IN33KpwG)
 * **Geliştirici:** Sea Vortex
+
+
+# ⚖️ MINION BOT – LEGAL NOTICE, TERMS OF SERVICE, PRIVACY POLICY, AND KVKK DISCLOSURE TEXT
+
+**Last Updated:** November 17, 2026
+
+**Platform:** [MicUp](https://micup.gg/)
+
+**Service:** Minion Music Bot
+
+---
+
+## 1. TERMS OF SERVICE
+
+### 1.1. Parties and Definition of Service
+
+These Terms of Service ("Terms") apply between **Minion Music Bot** ("Minion", "Bot", "Service"), operating on the MicUp platform, and all users ("User") who add the Bot to their server and/or use its commands. By adding Minion to your server or using its commands, you are deemed to have accepted these terms in advance.
+
+### 1.2. Scope and Provision of Service
+
+1. Minion is an audio and music assistant that transmits audio streams from publicly available sources (such as YouTube) to MicUp voice channels in real time upon user request.
+2. The Service is provided "as-is" and "as-available." No guarantee is made that the Service will be uninterrupted, error-free, or accessible at all times.
+3. Bot administrators reserve the right to update, temporarily suspend, or terminate the Service without prior notice.
+
+### 1.3. User Obligations and Prohibited Actions
+
+Users undertake not to engage in the following actions:
+
+* Spamming bot commands or attempting to disrupt the system and MicUp infrastructure by sending excessive requests (DDoS / Rate limit abuse) via automated scripts or bots,
+* Intentionally broadcasting audio streams into channels via the bot that violate applicable laws of the Republic of Türkiye, public morality, or contain hate speech, illegal content, or criminal elements,
+* Abusing the bot in a manner that violates MicUp’s Community Guidelines and Terms of Service.
+
+### 1.4. Intellectual Property and Copyrights (Law No. 5846 on Intellectual and Artistic Works & DMCA)
+
+1. Minion does **not store or host** any copyrighted music or media files on its own servers.
+2. The Bot operates solely as an **intermediary transmitter (proxy/player)** providing real-time streaming from third-party public platforms (such as YouTube) based on keywords and links requested by the user.
+3. Copyright responsibility for played content rests with the sources that uploaded the respective content and the users who request its playback.
+4. **Notice and Takedown:** If you wish to prevent copyrighted content you own from being transmitted via Minion, you may submit a notice with the content URL through our communication channels. Upon request, the relevant content will be permanently blocked on the bot.
+
+---
+
+## 2. PRIVACY POLICY
+
+At Minion, we attach utmost importance to the privacy of our users. Our bot is designed in accordance with the principles of "Privacy by Design" and "Data Minimization."
+
+### 2.1. Data Collected / Processed
+
+Minion does not collect any unnecessary data that would intrude upon users' private lives:
+
+* **Processed Temporary Technical Data:**
+* User ID and Username: Held in RAM (temporary memory) solely to display the "Requested by: User" label on the now-playing track card.
+* Server and Channel IDs: Used instantaneously so the bot can connect to the correct voice and text channel of the right server.
+* Commands and Search Queries: The song title entered by the user (e.g., `.play Tarkan`) is transmitted to the YouTube API/Search engine to locate the track.
+
+
+* **Data Not Collected:**
+* **NO AUDIO RECORDING:** Minion never listens to, records, or transmits conversations in voice channels to third parties. The bot is solely an audio **broadcaster**, not a listener or recorder.
+* **CHAT HISTORY IS NOT SAVED:** The bot does not read, save, or store general chat messages outside of commands in any database.
+* **PERSONAL IDENTIFICATION INFORMATION:** Name, surname, email, phone number, IP address, or passwords are never requested or processed by Minion.
+
+
+
+### 2.2. Data Storage and Sharing
+
+* Minion does not maintain a persistent user database. All data is held temporarily in RAM only while the bot is running; it is completely wiped from memory when the player closes or the bot restarts.
+* Collected technical identifiers are never shared with, sold to, or commercialized for any advertising company, data broker, or third party.
+
+---
+
+## 3. DISCLOSURE TEXT UNDER PERSONAL DATA PROTECTION LAW NO. 6698 (KVKK)
+
+This Disclosure Text has been prepared by the **Minion Developer Team**, acting as the data controller, pursuant to Article 10 of the Personal Data Protection Law No. 6698 ("KVKK") and the Communiqué on the Principles and Procedures to be Followed in Fulfillment of the Obligation to Inform.
+
+### 3.1. Data Controller
+
+With respect to the limited data processed within Minion Music Bot, the Data Controller is the Minion Development and Management Team.
+
+### 3.2. Purpose and Legal Basis for Processing Personal Data
+
+User ID, Username, and Command Input processed automatically by Minion are processed based on the legal grounds set forth in:
+
+* KVKK Art. 5/2-c ("Processing of personal data of the parties to a contract is necessary, provided that it is directly related to the establishment or performance of the contract") and
+* KVKK Art. 5/2-f ("Processing of data is necessary for the legitimate interests pursued by the data controller, provided that this processing shall not violate the fundamental rights and freedoms of the data subject")
+solely for the purposes of performing the requested music playback service, generating interface cards, and ensuring the operational stability of the bot.
+
+### 3.3. Transfer of Personal Data
+
+Processed data is not permanently transferred domestically or abroad. Song search queries are transmitted solely as technical requests to public internet sources (YouTube search engine) upon user command.
+
+### 3.4. Rights of the Data Subject (KVKK Article 11)
+
+Pursuant to Article 11 of the KVKK, everyone has the right to apply to the data controller to:
+a) Learn whether their personal data is being processed,
+
+b) Request information if their personal data has been processed,
+
+c) Learn the purpose of processing their personal data and whether it is used in accordance with its purpose,
+
+d) Request the deletion or destruction of their personal data.
+
+> **Important Note:** Since Minion does not retain persistent personal data in any database, all processed temporary session data is automatically destroyed when the bot is removed from the server or the session ends.
+
+---
+
+## 4. CONTACT & RIGHTS NOTIFICATIONS
+
+For copyright notices, feedback, or legal requests:
+
+* **MicUp Support Server:** [Minion Support](https://micup.gg/invite/IN33KpwG)
+* **Developer:** Sea Vortex
